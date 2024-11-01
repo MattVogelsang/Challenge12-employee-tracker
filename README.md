@@ -24,16 +24,8 @@ Prerequisites
 Node.js
 PostgreSQL
 Steps
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/employee-management-system.git
-cd employee-management-system
-Install dependencies:
 
-bash
-Copy code
 npm install
 Set up the PostgreSQL database:
 
