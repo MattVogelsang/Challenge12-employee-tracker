@@ -3,7 +3,7 @@
 
 <img src="images/challenge12.png" >
 
-<a href ="https://drive.google.com/drive/folders/1mDup57TzyopREPyUnPYL1mEUEfBTu7nN?dmr=1&ec=wgc-drive-globalnav-goto"> Click Here for demo.</a>
+<a href ="https://drive.google.com/file/d/16iaWqNX6MssEzYhvScfDUucvwhSKCDci/view?usp=sharing"> Click Here for demo.</a>
 
 This Employee Management System is a command-line application that allows users to manage employee data for a company. Users can view departments, roles, and employees, as well as add new entries and update existing ones. This application uses PostgreSQL for the database, pg for database queries, and inquirer for user interaction.
 
